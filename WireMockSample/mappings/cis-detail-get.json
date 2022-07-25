@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/cis/49216995"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "../__files/cis-detail-get.json"
+  }
+}
